@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AWSMobileHubHelper'
-  s.version      = '2.4.16'
+  s.version      = '1.0.0'
   s.summary      = 'AWS Mobile Hub helper code for iOS.'
   s.description  = 'AWS Mobile Hub helper code for iOS.'
 
